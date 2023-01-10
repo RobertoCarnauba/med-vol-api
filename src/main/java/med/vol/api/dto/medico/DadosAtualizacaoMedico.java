@@ -1,4 +1,4 @@
-package med.vol.api.medico;
+package med.vol.api.dto.medico;
 
 import io.micrometer.common.lang.NonNull;
 
